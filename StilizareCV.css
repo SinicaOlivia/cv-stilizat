@@ -1,0 +1,55 @@
+  h1{
+    text-align:left;
+}
+
+.dark-blue{
+  color:#005889;
+}
+
+  h3{
+    color: #005889;
+}
+  p{
+    margin-left:40px;
+}
+  .contact ul {
+    display:flex;
+    gap:50px;
+}
+
+/* unvisited link */
+  a:link {
+    color:darkblue;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:blue;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color:dodgerblue;
+  }
+  .skills {
+        border-collapse:collapse;
+        width: 100%;
+        padding: 300px;
+        text-align:left;
+        margin-left:40px;
+      }
+      
+  body{
+    margin-top:10px;
+    padding:20px 50px 30px 50px;
+    border-top:#005889 5px solid;
+  }
+  
+   * {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  #tabel th{
+    color:#005889;
+  }
+
